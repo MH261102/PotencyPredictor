@@ -1,4 +1,4 @@
-# Chemical Compound Potency Prediction
+# PotencyPredictor
 
 ## Overview
 This Python application predicts the potency of chemical compounds using molecular descriptors calculated from SMILES notation. It leverages the RDKit library for chemical informatics operations and uses a Random Forest Regressor model from the scikit-learn library for making predictions based on molecular properties.
@@ -26,7 +26,7 @@ Before you can run this script, make sure you have the following installed:
 ## Usage
 1. Run the script:
    ```bash
-   python compound_predictor.py
+   python potency_predictor.py
    ```
 2. Select a CSV file with chemical compounds data when prompted. Ensure your CSV file is formatted with at least the following columns:
    - `Smiles`: Column containing SMILES notation of compounds.
