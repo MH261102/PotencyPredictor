@@ -49,7 +49,7 @@ NCCO;234.56
 Contributions to enhance the functionality or efficiency of this application are welcome. Please feel free to fork the repository and submit a pull request.
 
 ## License
-Specify your license or leave this section empty if you're still deciding.
+See the 'LICENCE' file
 
 ## Contact Information
 - **Email:** [mhurwanth@gmail.com](mailto:mhurwanth@gmail.com)
